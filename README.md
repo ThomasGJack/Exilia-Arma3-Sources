@@ -367,4 +367,4 @@ L'analyse complète du code a relevé ces points :
 > ⚠️ **Dépôt privé, tous droits réservés.**
 > - L'addon `concession` est soumis à la licence de **FusioH** ([`concession/licencemodfusioh.txt`](concession/licencemodfusioh.txt)) : pas d'usage commercial, ni de modification sans l'accord de son créateur.
 > - Certains contenus proviennent de tiers : port HMMWV d'Arma 2, icônes Iconfinder et Canva, marques déposées sur les tenues et la nourriture.
-> - Tout ce contenu reste soumis aux [Bohemia Game Content Usage Rules](https://www.bohemia.net/community/game-content-usage-rules). Ne pas redistribuer sans l'accord des auteurs.
+> - Tout ce contenu reste soumis aux [Bohemia Game Content Usage Rules](https://www.bohemia.net/community/game-content-usage-rules).
