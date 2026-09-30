@@ -1,0 +1,92 @@
+ambient[]={1,1,1,1};
+diffuse[]={1,1,1,1};
+forcedDiffuse[]={0,0,0,0};
+emmisive[]={0,0,0,1};
+specular[]={0.1,0.1,0.1,1};
+specularPower=26.6;
+PixelShaderID="Super";
+VertexShaderID="Super";
+class Stage1
+{
+	texture="popoff_core\textures\facade_beton_1_NORM.paa";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage2
+{
+	texture="popoff_core\textures\facade_beton_1_AO.paa";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage3
+{
+	texture="#(argb,8,8,3)color(0,0,0,0,MC)";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage4
+{
+	texture="popoff_core\textures\facade_beton_1_SPEC.paa";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage5
+{
+	texture="#(argb,8,8,3)color(1,0.1,0.1,1.0,SMDI)";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage6
+{
+	texture="popoff_core\textures\facade_beton_1_DISP.paa";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};
+class Stage7
+{
+	texture="#(argb,8,8,3)color(0,0,0,1,CO)";
+	uvSource="tex";
+	class uvTransform
+	{
+		aside[]={1,0,0};
+		up[]={0,1,0};
+		dir[]={0,0,1};
+		pos[]={0,0,0};
+	};
+};

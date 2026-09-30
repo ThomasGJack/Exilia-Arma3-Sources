@@ -1,0 +1,10 @@
+_carshop = nearestObject [player, "carshop_popoff"];
+player attachTo [_carshop, [-6.17, 10.1, 1.9] ];
+player say "chiottes";
+player setdir 180;
+player switchmove "Acts_HeliCargo_loop";
+sleep 18;
+_carshop animate ["crotte_1",0];
+player switchmove "";
+player attachTo [_carshop, [-6.17, 9.7, 1.9] ];
+detach player;

@@ -1,0 +1,36 @@
+class civ_truck {
+        side = "civ";
+        vehicles[] = {
+			{ "EXILIA_d3s_kamaz", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_4350", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_4350_tent", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_tent", { "", "", -1 } },
+			{ "EXILIA_d3s_next", { "", "", -1 } },
+			{ "EXILIA_d3s_next_tent", { "", "", -1 } },
+			{ "EXILIA_d3s_next_bocha", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_4350_tent2", { "", "", -1 } },
+			{ "EXILIA_d3s_maz_6317", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_2", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_MAW_2", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_5350", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_tent_2", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_tent_MAW_2", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_5350_tent", { "", "", -1 } },
+			{ "EXILIA_d3s_maz_6317_cistern", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_bocha", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_bocha_MAW_2", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_5350_bocha", { "", "", -1 } },
+			{ "EXILIA_Jonzie_Flat_Bed", { "", "", -1 } },
+			{ "EXILIA_Jonzie_Log_Truck", { "", "", -1 } },
+			{ "EXILIA_d3s_kraz_6315", { "", "", -1 } },
+			{ "EXILIA_d3s_kamaz_6350", { "", "", -1 } },
+			{ "EXILIA_d3s_kraz_6316", { "", "", -1 } },
+			{ "EXILIA_d3s_maz_7429", { "", "", -1 } },
+			{ "EXILIA_d3s_maz_7429_cistern", { "", "", -1 } },
+			{ "EXILIA_d3s_actros_14", { "", "", -1 } },
+			{ "EXILIA_d3s_actros_14_big", { "", "", -1 } },
+			{ "EXILIA_d3s_actros_14_bigg", { "", "", -1 } },
+			{ "EXILIA_d3s_actros_14_giga", { "", "", -1 } },
+			{ "EXILIA_xs_kamaz_6550", { "", "", -1 } }
+        };
+    };

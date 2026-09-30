@@ -1,0 +1,13 @@
+# Sauvegardes locales
+*.bak
+
+# Fichiers générés / outils
+*.pbo
+*.bisign
+*.log
+Thumbs.db
+desktop.ini
+.claude-flow/
+
+# Document personnel (attestation) égaré dans un addon : ne jamais publier
+Exilia_phone/Sounds/AttestationDroits.pdf

@@ -1,0 +1,22 @@
+# Aucune conversion de fin de ligne : les fichiers sont stockés tels quels
+* -text
+
+# Assets binaires Arma 3
+*.paa binary
+*.p3d binary
+*.rtm binary
+*.bin binary
+*.ogg binary
+*.ogv binary
+*.wav binary
+*.psd binary
+*.tga binary
+*.3ds binary
+*.pdf binary
+*.jpg binary
+*.png binary
+
+# Coloration GitHub
+*.sqf linguist-language=SQF
+*.hpp linguist-language=C++
+*.cpp linguist-language=C++

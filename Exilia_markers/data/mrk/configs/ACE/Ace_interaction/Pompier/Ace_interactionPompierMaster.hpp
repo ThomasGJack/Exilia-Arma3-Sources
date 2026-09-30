@@ -1,0 +1,5 @@
+#include "Ace_interactionPompierHouse.hpp"
+#include "Ace_interactionPompierPlayer.hpp"
+#include "Ace_interactionPompierSelfActions.hpp"
+#include "Ace_interactionPompierVehicles.hpp"
+#include "Ace_interactionPompierAir.hpp"
