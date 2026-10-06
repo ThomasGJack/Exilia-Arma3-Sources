@@ -332,7 +332,6 @@ Chaque dossier racine est **un addon**, qui devient un PBO. Le préfixe est donn
 L'analyse complète du code a relevé ces points :
 
 **Économie et sécurité**
-- [ ] **Aucune validation côté serveur** : tous les gains (ATM, braquages, négoce) sont crédités sur le client, sans `remoteExec` vers le serveur.
 - [ ] **Arbitrage infini** sur le fer, l'argent, le plastique et surtout l'**or**, qui se revend 4 200 de plus qu'il ne s'achète.
 - [ ] Double débit ou crédit probable dans `fn_achat_cuivre.sqf` et `fn_vente_boucherie.sqf` : `exilia_cash` est modifié en plus de l'appel à `exilia_fnc_money`.
 - [ ] `fn_couperalarme` remet `braco_en_cours` à `true` au lieu de `false`.
